@@ -41,6 +41,7 @@ For a given layer `i`, the computation is:
 
 \[
 Z^{[i]} = W^{[i]}A^{[i-1]} + b^{[i]}
+
 \]
 
 \[
