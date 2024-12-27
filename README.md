@@ -4,8 +4,6 @@ This project implements a simple feedforward neural network from scratch using N
 
 ## Overview
 
-![new41](https://github.com/user-attachments/assets/159d6edc-9130-4719-bd90-ca2f013e83af)
-
 A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this project, we use a multi-layer perceptron (MLP) model, a type of neural network, to classify the digits in the MNIST dataset.
 
 ### Key Components
